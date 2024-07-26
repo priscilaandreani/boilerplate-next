@@ -11,6 +11,12 @@ Esse template oferece uma estrutura completa e configurável para iniciar projet
 - **Plop:** Geração de componentes de forma rápida e padronizada
 - **Husky:** Garante a qualidade de código com hooks no pré-commit para linting, styling e formatação
 
+## Iniciando um projeto com esse Template:
+
+```bash
+npx create-next-app --example https://github.com/priscilaandreani/boilerplate-next
+```
+
 ## Começando
 
 ```bash
